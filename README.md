@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Minitalk**
 
-- 🌱 I’m currently learning **42 Porto**
+- 🌱 I’m currently learning **𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 𝗦𝗶𝗴𝗻𝗮𝗹𝘀**
 
 - 📫 How to reach me **joaoduraes1001@gmail.com**
 
