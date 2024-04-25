@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duraes15&label=Profile%20views&color=0e75b6&style=flat" alt="duraes15" /> </p>
 
-- 🔭 I’m currently working on **Minitalk**
+- 🔭 I’m currently working on **so_long**
 
-- 🌱 I’m currently learning **𝗧𝗲𝗿𝗺𝗶𝗻𝗮𝗹 𝗦𝗶𝗴𝗻𝗮𝗹𝘀**
+- 🌱 I’m currently learning **minilibx**
 
 - 📫 How to reach me **joaoduraes1001@gmail.com**
 
