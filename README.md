@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duraes15&label=Profile%20views&color=0e75b6&style=flat" alt="duraes15" /> </p>
 
-- 🌱 I’m currently learning **Jupyter**, **RStud**
+- 🌱 I’m currently learning **Jupyter**, **RStudio**
 
 - 📫 How to reach me **joaoduraes1001@gmail.com**
 
