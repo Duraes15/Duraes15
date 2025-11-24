@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duraes15&label=Profile%20views&color=0e75b6&style=flat" alt="duraes15" /> </p>
 
-- 🌱 I’m currently learning **Jupyter**, **RStudio**
+- 🌱 I’m currently learning **Jupyter Notebook**, **RStudio** and **JavaScript**
 
 - 📫 How to reach me **joaoduraes1001@gmail.com**
 
-- ⚡ Fun fact **I love to improve myself and learn**
+- ⚡ Fun fact **I love to improve myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
